@@ -24,8 +24,8 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/abhijitugalmogale"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:abhiugalmogale12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
